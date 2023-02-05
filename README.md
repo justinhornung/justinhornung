@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hey there! I'm Justin! 👋🏻
 
-<!--
-**justinhornung/justinhornung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A car enthusiast and a web developer, striving to make my home a smart one.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack Web Development
+- Gosu and Unity Game Development
+- Home Networking and Smart Home Automation
+- Ruby on Rails
+
+## Projects
+
+- CRUD Practice Apps
+- 2D Web Games built with Gosu and Unity
+- Smart Home Networking setup
+
+## Education
+
+- Completed coding education from Actualize Bootcamp 2023
+
+## Interests
+
+- Cars - Porsche and Volkswagen
+- Smart homes
+- Game development
+- Home networking
+
+## Contact
+
+Feel free to reach out for any opportunities or collaborations.
+- [Email](JustinD.Hornung@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/justin-hornung/)
