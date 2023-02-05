@@ -29,5 +29,5 @@ A car enthusiast and a web developer, striving to make my home a smart one.
 ## Contact
 
 Feel free to reach out for any opportunities or collaborations.
-- [Email](JustinD.Hornung@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/justin-hornung/)
+- Email: JustinD.Hornung@gmail.com
+- LinkedIn: https://www.linkedin.com/in/justin-hornung/
